@@ -1,4 +1,4 @@
-# This is a game that me and my partner, Kevin Wu made for our final project in our class COMP_SCI 211: Fundamentals of Computer Programming II. Unfortunately, the original file containing the final version of this game got wiped away and we are trying to recover it. For now, the version we have on this repository lacks documentation, minor feature adjustments (regarding rendering), additional test cases, and most importantly, detailed instructions. For now, here are some of the basic instructions on how to play the game. 
+This is a game that me and my partner, Kevin Wu made for our final project in our class COMP_SCI 211: Fundamentals of Computer Programming II. Unfortunately, the original file containing the final version of this game got wiped away and we are trying to recover it. For now, the version we have on this repository lacks documentation, minor feature adjustments (regarding rendering), additional test cases, and most importantly, detailed instructions. For now, here are some of the basic instructions on how to play the game. 
 
 # Instructions
 
